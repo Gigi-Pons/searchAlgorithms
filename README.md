@@ -1,8 +1,6 @@
-# searchAlgorithms
-- Linear search algorithm
+## Search Algorithms
 
-## First change
-Change in read me
-
-## Second change 
-Change in Git on test1 Branch
+#Linear Search
+Searches a value in an array using linear search.
+Time complexity = O(n)
+Space complexity = O(1)
