@@ -2,5 +2,5 @@
 
 ## Linear Search
 Searches a value in an array using linear search.
-Time complexity = O(n)
-Space complexity = O(1)
+a <br /> Time complexity = O(n)
+a <br /> Space complexity = O(1)
