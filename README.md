@@ -6,7 +6,8 @@ Searches a value in an array using linear search.
 <br /> Space complexity = O(1)
 *
 
-## Binary Search
+## Binary Search Folder
+### firstLastIndex
 Reads a file into a vector.  The content of this file is in ascending order.
 Some numbers do repeat, the user can enter any of the numbers in the list and the
 algorithm will return the first and last index of the value entered.
